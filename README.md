@@ -1,2 +1,2 @@
-# typescript-2
- 
+# typeScript
+ curso de typescript
