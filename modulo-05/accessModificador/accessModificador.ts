@@ -8,7 +8,7 @@ class Estudante {
 
 const estudante = new Estudante();
 estudante.codigoEstudante = 201;
-estudante.nomeEstudante = 'Glaucia Lemos';
+estudante.nomeEstudante = 'Jeisa Carvalho';
 
 console.log(estudante.codigoEstudante);
 console.log(estudante.nomeEstudante);
